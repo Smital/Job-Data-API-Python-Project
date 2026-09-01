@@ -6,7 +6,7 @@ This project explores how Python can be used to retrieve, process, and analyze j
 
 The project was completed as a hands-on learning lab during the **IBM Data Analyst Professional Certificate on Coursera**.
 
-The main objective was to analyze job postings based on **location** and **technology skills**, and export the results into Excel files for further analysis.
+Python learning project using an API to collect job posting data, analyze opportunities by location and technology skill, and export results to Excel.
 
 ---
 
